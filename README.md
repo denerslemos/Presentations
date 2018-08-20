@@ -23,6 +23,7 @@ fluid cases are considered. An equation of state inspired in lattice
 QCD results, with a crossover phase transition between the quark-gluon
 plasma and the hadronic phase, is employed. The results are compared
 with experimental data on pp collisions at √s = 7 TeV.
+
 ----------------------------------------------------------------------------------
 
 
