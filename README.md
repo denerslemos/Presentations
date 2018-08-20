@@ -3,7 +3,7 @@
 XLI RTFNB - Sept. 02-06 at Maresias, São Paulo - SP - Brazil
 
 ----------------------------------------------------------------------------------
-## Work 1
+## Poster 1
 ### Title: 
 
 Hydrodynamical results on femtoscopy in pp collisions at √s = 7 TeV
@@ -21,11 +21,19 @@ lattice QCD results \[3], with a crossover phase transition between the quark-gl
 phase, is employed. And the decoupling was calculated by THERMINATOR2 \[4]. The results are compared
 with experimental data on pp collisions at √s = 7 TeV \[5].
 
+
+\[1] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
+\[2] J. S. Moreland et all.,  Phys. Rev. C, 92:011901, (2015).
+\[3] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
+\[4] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
+\[5] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
+
+
 ----------------------------------------------------------------------------------
 
 
 ----------------------------------------------------------------------------------
-## Work 2
+## Poster 2
 ### Title: 
 
 Results on femtoscopy from hydrodinamics in pp collisions at √s = 7 TeV
