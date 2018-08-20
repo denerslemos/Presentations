@@ -1,7 +1,8 @@
-# Quark Matter 2018
+# XLI Brazilian Meeting on Nuclear Physics 
 
-QM2018 - May 13-19 at Venice, Italy
+XLI RTFNB - Sept. 02-06 at Maresias, São Paulo - SP - Brazil
 
+----------------------------------------------------------------------------------
 # Title: 
 
 Results on femtoscopy from hydrodinamics in pp collisions at √s = 7 TeV
@@ -22,3 +23,6 @@ fluid cases are considered. An equation of state inspired in lattice
 QCD results, with a crossover phase transition between the quark-gluon
 plasma and the hadronic phase, is employed. The results are compared
 with experimental data on pp collisions at √s = 7 TeV.
+----------------------------------------------------------------------------------
+
+
