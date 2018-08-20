@@ -21,13 +21,16 @@ lattice QCD results \[3], with a crossover phase transition between the quark-gl
 phase, is employed. And the decoupling was calculated by THERMINATOR2 \[4]. The results are compared
 with experimental data on pp collisions at √s = 7 TeV \[5].
 
-
+##### References 
 \[1] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
-\[2] J. S. Moreland et all.,  Phys. Rev. C, 92:011901, (2015).
-\[3] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
-\[4] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
-\[5] Iu. Karpenko et all., Comput. Phys. Commun., 185:3016, (2014).
 
+\[2] J. S. Moreland et all.,  Phys. Rev. C, 92:011901, (2015).
+
+\[3] A. Bazavov et all. (HotQCD Collaboration), Phys. Rev. D, 90:094503, (2014).
+
+\[4] M. Chojnacki et all., Comput. Phys. Commun., 185:746, (2012).
+
+\[5] ALICE Collaboration, Eur. Phys. J., 68:345, (2010); Nature Phys., 13:535, (2017); Phys. Rev. D, 84:112004, (2011)
 
 ----------------------------------------------------------------------------------
 
